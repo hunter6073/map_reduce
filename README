@@ -1,0 +1,11 @@
+Description:
+This is a repository hosting example code for my big data tutorials,
+you can download them and follow along me in explanation of the code in the in-class exercises
+Currently there is only a java version of word count hosted here, future updates include:
+1. word count map reduce example in python
+2. spark example for word count in python and scala
+3. spark sql example
+4. hive example
+For tutorial slides and more information, please visit https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU
+You can find the slides embedded in each tutorial.
+Further resources such as How-to articles can be found in this site as well
